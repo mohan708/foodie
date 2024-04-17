@@ -239,7 +239,7 @@ p{
 
 .top-banner{
 width: 100%;
-background:url('../images\ /bg/bg-1.jpg') no-repeat center;
+background:url('../images\/bg/bg-1.jpg') no-repeat center;
 background-size: cover;
 padding:16.875rem 0 9.375rem
 }
@@ -315,7 +315,7 @@ food typw section design
 
 .story-section{
    width: 100%;
-   background: url('../images\ /bg/bg-2.jpg')  center;
+   background: url('../images/bg/bg-2.jpg')  center;
    background-size: cover;
    height: 28.25rem;
     padding-top: 100px;
@@ -417,7 +417,7 @@ Faq section design
 
 .book-food{
     width: 100%;
-    background: url('../images\ /bg/bg-3.jpg');
+    background: url('../images/bg/bg-3.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-position: 0 71.9125px;
